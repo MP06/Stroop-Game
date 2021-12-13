@@ -7,6 +7,6 @@ public class switch_1 : MonoBehaviour
 {
     public void NextScene()
     {
-        SceneManager.LoadScene("Game");
+    	SceneManager.LoadScene("Game");        
     }
 }
